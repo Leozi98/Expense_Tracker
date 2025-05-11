@@ -22,16 +22,17 @@ A command-line application for managing personal finances, tracking expenses, an
 
 ## Installation
 
-1. **Requirements**
+**Requirements**
    - Python 3.x
    - No external dependencies
 
-2. **Setup**
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
-  ```
-  python expense_tracker.py
+**Setup**
+```bash
+git clone https://github.com/yourusername/expense-tracker.git
+```
+cd expense-tracker
+```
+python expense_tracker.py
 ```
 ```
 #Main Menu Options:
